@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace TestUtils
+namespace Scb
 {
     /// <summary>
     /// Extends the features of CollectionAssert by logging the expected and actual values if the 

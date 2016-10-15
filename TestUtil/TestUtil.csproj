@@ -7,7 +7,7 @@
     <ProjectGuid>{AE81E0B0-1397-47D7-8C36-5CC8A330122A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TestUtil</RootNamespace>
+    <RootNamespace>Scb</RootNamespace>
     <AssemblyName>TestUtil</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

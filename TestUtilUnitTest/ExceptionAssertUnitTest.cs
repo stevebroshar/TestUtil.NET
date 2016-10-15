@@ -1,8 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using TestUtils;
 
-namespace TestUtilsUnitTest
+namespace Scb
 {
     [TestClass]
     public class ExceptionAssertUnitTest
